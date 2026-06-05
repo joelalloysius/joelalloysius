@@ -1,4 +1,4 @@
-# Hello, I'm Joel! 👋
+# Hello, I'm Joel!
 
 **📊 Data Analyst | 📈 Business Analyst | 🎓 MSc Management with Business Analytics (Bournemouth University)**
 

@@ -31,5 +31,6 @@ This portfolio showcases a selection of projects where I have provided data rela
 
 ## 🌐 Connect With Me
 
-- LinkedIn: (https://www.linkedin.com/in/joel-pinto-425aa0198)
-- Tableau Public: (https://public.tableau.com/app/profile/joel.pinto5911/vizzes)
+- Website: https://joelalloysius.wixsite.com/joelanalytics
+- LinkedIn: https://www.linkedin.com/in/joel-pinto-425aa0198
+- Tableau Public: https://public.tableau.com/app/profile/joel.pinto5911/vizzes
